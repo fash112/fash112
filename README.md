@@ -1,6 +1,6 @@
 # Hi, I'm Dayo 👋
 
-Data & Infrastructure Engineer based in Finland, with a background in network administration and ten years running my own IT consulting practice. I design and build production data infrastructure on **Azure** and **AWS** pipelines, warehouses, dbt transformation layers, and dashboards businesses actually use.
+Data & Infrastructure Engineer, with a background in network administration and ten years running my own IT consulting practice. I design and build production data infrastructure on **Azure** and **AWS** pipelines, warehouses, dbt transformation layers, and dashboards businesses actually use.
 
 ---
 
