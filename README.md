@@ -1,10 +1,47 @@
-- 👋 Hi, I’m @fash112
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python and Java programming
-- 💞️ I’m looking to collaborate on Python and Java projects
-- 📫 How to reach me via email at: fashdayo85@gmail.com
+# Hi, I'm Dayo 👋
 
-<!---
-fash112/fash112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data & Infrastructure Engineer based in Finland, with a background in network administration and ten years running my own IT consulting practice. I design and build production data infrastructure on **Azure** and **AWS** — pipelines, warehouses, dbt transformation layers, and dashboards businesses actually use.
+
+---
+
+### 🔧 Stack
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📜 Certifications
+
+- 🏅 Microsoft Certified: Azure Data Engineer Associate (DP-203)
+- 🏅 Microsoft Fabric Data Engineer Associate (DP-700) — in progress
+- 🏅 Microsoft Certified: Azure Data Fundamentals (DP-900)
+- 🏅 Cisco Certified Network Associate (CCNA)
+
+---
+
+### 📌 Featured Projects
+
+- 🚗 **[nigeria-automotive-data-platform](https://github.com/fash112/nigeria-automotive-data-platform)** — medallion-architecture data platform for an automotive dealership: 11 source entities, dbt-tested transformations, full data catalog. Synthetic reference build of a real NDA-bound client engagement.
+- ❄️ **[nordic-sales-platform](https://github.com/fash112/nordic-sales-platform)** — end-to-end sales data platform: PySpark processing, dbt models with tests, Azure Data Factory orchestration, Power BI delivery.
+- ☁️ **[aws-serverless-three-tier](https://github.com/fash112/aws-serverless-three-tier)** — serverless three-tier architecture on AWS: Lambda, API Gateway, DynamoDB, infrastructure as code.
+
+---
+
+### ☕ Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayofasokun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fashdayo85@gmail.com)
+
+*Open to Data Engineer roles and remote consulting engagements — happy to talk data infrastructure wherever you're based.*
+
+---
+
+### 📈 Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fash112&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fash112&layout=compact&theme=dark)
