@@ -1,4 +1,6 @@
-# Hi, I'm Dayo 👋
+![Wave](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNocnJwaW5ldzg0M3g2Z2Z0bnFqemlhMHFiM2RiMTJwcHBnZWlmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XZy2SbQTJEm7q4KeEm/giphy.gif)
+
+# Hi, I'm Dayo
 
 Data & Infrastructure Engineer based in Finland, with a background in network administration and ten years running my own IT consulting practice. I design and build production data infrastructure on **Azure** and **AWS** — pipelines, warehouses, dbt transformation layers, and dashboards businesses actually use.
 
